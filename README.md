@@ -1,4 +1,4 @@
-# Flying-Drone-Dataset
+# MAVs-Dataset
 ## Introduction
 The dataset is collected from three different sources, which are the online published datasets [1], our recorded videos, and the online images. The images include the flying drones in different outdoor environmental backgrounds. 
 The dataset was used to train several deep learning models for detecting drones in real-time. 
