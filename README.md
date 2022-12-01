@@ -2,7 +2,7 @@
 The dataset is collected from three different sources, which are the online published datasets, our recorded videos, and the online images. The images include the Micro Air Vehicles (MAVs) in different environmental backgrounds. 
 The dataset was used to train several deep learning models for detecting MAVs in real-time. 
 
-![test](images/Drone_1127.jpg)
+![test](samples/Dataset_samples.png)
 
 # Download
 The images can be downloaded using the link below:
