@@ -13,7 +13,8 @@ https://staffusm-my.sharepoint.com/:f:/g/personal/aehannwoei_usm_my/EgZX92pEcupN
 # Citation
 If you use this dataset in an academic context, please cite our work:
 ````
-The academic paper was submitted to Aerospace Science and Technology.
+Zhi Wei Lee, Wai Hoe Chin, Hann Woei Ho, Air-to-air Micro Air Vehicle Interceptor with an Embedded Mechanism and Deep Learning, 2022.
+(The academic paper was submitted to Aerospace Science and Technology)
 ````
 
 
